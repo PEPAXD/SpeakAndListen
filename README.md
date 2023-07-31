@@ -26,7 +26,5 @@ Contributions are welcome! If you wish to enhance or extend this application, fe
 This project is licensed under the MIT License. You can refer to the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-If you have any questions or comments about this project, feel free to contact me at mauro.pepa@example.com.
+If you have any questions or comments about this project, feel free to contact me at mauropepa1997oficial@gmail.com.
 
----
-*Note: The image used in the README is a visual representation of the application and should be replaced with an actual screenshot or a more suitable image when published on GitHub.*
