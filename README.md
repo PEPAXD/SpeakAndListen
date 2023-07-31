@@ -1,7 +1,5 @@
 # SpeakAndListen - Speech Recognition and Speech Synthesis in Python
 
-![SpeakAndListen](speak_and_listen.png)
-
 ## Description
 SpeakAndListen is a Python application that enables speech recognition and speech synthesis in Spanish. The application utilizes the `speech_recognition` library for listening and recognizing speech, and `pyttsx3` for speech synthesis.
 
